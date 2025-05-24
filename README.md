@@ -80,4 +80,4 @@ The next steps for building a predictive model would include:
 * Selecting, training, and evaluating various machine learning models to predict `median_house_value`.
 
 ## Project Files
-- `California_Housing_EDA.ipynb`: The Jupyter notebook containing all the code, analysis, and visualizations for this EDA.
+- `California_Housing.ipynb`: The Jupyter notebook containing all the code, analysis, and visualizations for this EDA.
